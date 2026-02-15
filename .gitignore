@@ -1,3 +1,5 @@
 sshaws.pem:Zone.Identifier
 sshaws.pem
 *.pem
+*.swp
+
